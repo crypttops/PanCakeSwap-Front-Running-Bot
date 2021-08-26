@@ -8,6 +8,6 @@ We are finalizing on sell strategy and you can easily monitor the tests via our 
 
 Join our telegram group [BSC Token Sniper](https://t.me/joinchat/8qCzm-OdWfVhMzNk) and get live notifications from our trading bot on the newly listed tokens that DON'T pass our litmus test
 
-Join this telegram group https://t.me/joinchat/yZ_Yzza6dA42NzI0 and get live notifications from our trading bot on the newly listed tokens that DO PASS our litmus test
+Join our telegram group [BSC Token Sniper](https://t.me/joinchat/yZ_Yzza6dA42NzI0) and get live notifications from our trading bot on the newly listed tokens that DO PASS our litmus test
 
 Reach us via whatsapp:  +254795557216 for any queries.  We can also discuss on our implementation for the sell strategy used.  
