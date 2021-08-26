@@ -1,4 +1,4 @@
-# PanCakeSwap-Front-Running-Bot
+# PanCakeSwap-Sniper-Running-Bot
 This is a Telegram Bot that automatically Listens to Newly Listed Coins(But Only Legit ones) on PanCakeSwap(BSC Chain) and Automatically Buys them, listens to Price Variations and SWAPS Automatically(At a Profit) back to BNB 
 
 The bot uses a highly optimised algorithm for buying newly listed coins as opoosed to front-running buy requests on the mempool. Thus the buys of newly listed coins has been done successfully.  
