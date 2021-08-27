@@ -11,4 +11,3 @@ Join our telegram group [BSC Token Sniper](https://t.me/joinchat/8qCzm-OdWfVhMzN
 
 Join our telegram group [BSC Token Sniper](https://t.me/joinchat/yZ_Yzza6dA42NzI0) and get live notifications from our trading bot on the newly listed tokens that DO PASS our litmus test. These are the coins that get bought by our bot. You will have the ability to see the bot in action. The bot will sell the bought tokens as price varies. See profit gained. The bot is trading via our metamask account. If you need the bot setup for you, reach us for the price.  We will create a downloadable exe file soon. 
 
-Reach us via whatsapp:  +254795557216 for any queries.  We can also discuss on our implementation for the sell strategy used.  
